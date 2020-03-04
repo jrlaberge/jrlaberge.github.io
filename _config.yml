@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Jon Laberge
-  avatar: leonids-logo.png
+  avatar: profile-circle.png
   job: "Systems Administrator"
   bio: "Just a guy with a passion and desire to learn more."
   email:
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: jrlaberge
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: https://linkedin.com/in/jrlaberge
+  linkedin: jrlaberge
   skype: #username
   xing: #username
   instagram: #username
