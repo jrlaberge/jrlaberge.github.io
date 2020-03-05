@@ -10,6 +10,8 @@ Hey! Welcome to my site.. I guess sort of a blog. I think the main purpose of th
 
 A little bit about myself, I've been really into computers since a relatively young age, tinkering with them and figuring out how to take it apart, put it back together. How to customize the operating system. This all led me to pursue it as a career and go to school to broaden my knowledge.
 
+<a href="https://jrlaberge.github.io/articles/2020-03/welcome-to-my-site.md">Continue reading...</a>
+
 <!--more-->
 
 I've worked mostly in start-ups, or companies that are just past that start-up stage. I've done everything from help desk, data center, and operations. I'm currently a System Administrator, and pursuing to move onto Site Reliability Engineers.
