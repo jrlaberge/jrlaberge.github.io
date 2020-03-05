@@ -44,7 +44,7 @@ owner:
   google:
     plus: #username
     analytics: UA-159826971-1
-    verify:
+    verify: UA-159826971-1
     ad-client:
     ad-slot:
   bing-verify:
