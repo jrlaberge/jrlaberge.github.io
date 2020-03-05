@@ -43,8 +43,8 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-159826971-1
-    verify: UA-159826971-1
+    analytics:
+    verify:
     ad-client:
     ad-slot:
   bing-verify:
