@@ -21,10 +21,10 @@ So far I've accomplished RHCSA and Google Cloud Certified Associate Cloud Engine
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/jrlaberge/edu/blob/master/certifications/google-cloud/associate-cloud-engineer/badge.png" width="200" height="200" />
+      <img src="https://github.com/jrlaberge/edu/blob/master/certifications/google-cloud/associate-cloud-engineer/badge.png?raw=true" width="200" height="200" />
     </td>
     <td>
-      <img src="https://github.com/jrlaberge/edu/blob/master/certifications/red-hat/rhcsa7/rhcsa-badge.png" width="250" height="200" />
+      <img src="https://github.com/jrlaberge/edu/blob/master/certifications/red-hat/rhcsa7/rhcsa-badge.png?raw=true" width="250" height="200" />
     </td>
  </tr>
 </table>
