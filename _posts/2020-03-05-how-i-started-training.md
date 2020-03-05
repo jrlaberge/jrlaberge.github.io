@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my site!"
-date:   2020-02-04 21:07:19
-categories: [introduction]
+title:  "How I got started on this journey"
+date:   2020-02-05 12:07:19
+categories: [learning, motivation]
 comments: true
 ---
 
