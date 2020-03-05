@@ -41,6 +41,7 @@ Linux Academy offers 2 subscription models (prices at the time of this writing):
 The pricing is definitely steep, I paid for the monthly subscription as I was funding it myself, that was in December 2018, and paid up until April 2019 when I landed a Linux Systems Administrator job. They ended up paying for my annual subscription (Thanks <a href="https://freshbooks.com">Freshbooks</a>)
 
 --
+<img src="https://avatars1.githubusercontent.com/u/17256228?s=200&v=4" />
 
 If you're looking to take the next step in your career, and find yourself needing some help. I definitely recommend <a href="https://linuxacademy.com">Linux Academy</a> They do have discounted subscriptions throughout the year which generally cuts the annual subscription down to 299 USD. Follow <a href="https://twitter.com/linuxacademyCOM">@linuxacademyCOM</a> on Twitter as they tweet about their deals when they come up.
 
