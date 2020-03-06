@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I got started on this journey"
-date:   2020-02-05 12:07:19
+date:   2020-03-05 12:07:19
 categories: [learning, motivation]
 comments: true
 ---
