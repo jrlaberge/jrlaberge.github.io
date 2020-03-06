@@ -10,7 +10,7 @@ One thing that I felt always held me back, was that I didn't attend a popular un
 
 I knew I wanted to do more, and to get there, I'd need to learn more. Sometimes you can be lucky and find a company that values individual growth and provides many opportunities to learn on the job. Other times, there isn't enough of it, so how do you get to the next milestone in your career, or learn more about areas that interest you? How do you even find what areas might interest you if you had no exposure?
 
-<a href="https://jrlaberge.github.io/articles/2020-03/how-i-started-training.md">Continue reading...</a> 
+<a href="https://jrlaberge.github.io/articles/2020-03/how-i-started-my-journey.md">Continue reading...</a> 
 
 <!--more-->
 
