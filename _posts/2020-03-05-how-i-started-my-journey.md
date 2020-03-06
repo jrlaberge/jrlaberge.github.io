@@ -42,16 +42,6 @@ The pricing is definitely steep, I paid for the monthly subscription as I was fu
 
 If you're looking to take the next step in your career, and find yourself needing some help. I definitely recommend <a href="https://linuxacademy.com">Linux Academy</a> They do have discounted subscriptions throughout the year which generally cuts the annual subscription down to 299 USD. Follow <a href="https://twitter.com/linuxacademyCOM">@linuxacademyCOM</a> on Twitter as they tweet about their deals when they come up.
 
+Next up, I am thinking of writing up a series on how I prepared for my certifications. So stay tuned!
 
-<table border="0">
-<tr>
-<td>
-<img src="https://github.com/jrlaberge/edu/blob/master/certifications/google-cloud/associate-cloud-engineer/badge.png?raw=true" width="200" height="200" />
-</td>
-<td>
-<img src="https://github.com/jrlaberge/edu/blob/master/certifications/red-hat/rhcsa7/rhcsa-badge.png?raw=true" width="250" height="200" />
-</td>
-</tr>
-</table>
 
-Want to find out more about how I got started and got my first certification? Check out my next post!
