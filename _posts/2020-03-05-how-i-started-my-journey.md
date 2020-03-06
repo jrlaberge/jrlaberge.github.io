@@ -9,9 +9,6 @@ comments: true
 One thing that I felt always held me back, was that I didn't attend a popular university for Computer Science. Instead, I took a 2 year college diploma program for Computer Systems Technology, and while I learned quite a bit. It didn't help me too much with landing the job I wanted. They did offer co-op in their 3 year program, but I didn't take advantage of that.
 
 I knew I wanted to do more, and to get there, I'd need to learn more. Sometimes you can be lucky and find a company that values individual growth and provides many opportunities to learn on the job. Other times, there isn't enough of it, so how do you get to the next milestone in your career, or learn more about areas that interest you? How do you even find what areas might interest you if you had no exposure?
-
-<a href="https://jrlaberge.github.io/articles/2020-03/how-i-started-my-journey">Continue reading...</a> 
-
 <!--more-->
 
 I worked at a financial company, and knew that I wanted to move more on the infrastructure side of things, as I was mostly involved with monitoring and internal IT support. Every year, I'd have my performance review, and speak about where I want to go. Each year, I'd get closer to defining what that is. By my second annual review, I had voiced that I wanted to work towards joining the DevOps team. Feedback on how to get there was very little. On my third annual review, I came in with a
