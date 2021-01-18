@@ -8,7 +8,7 @@ comments: true
 
 Git is a very powerful tool, and should be included in every system admin's toolbox, whether you are new to scripting, or new to the IT industry, it is a powerful tool to get started with. By the end of this post, you should have your very own repo setup and ready to use!
 
-<!-- more-->
+<!--more-->
 
 ## Table of contents
 * [Basics](#basics)
