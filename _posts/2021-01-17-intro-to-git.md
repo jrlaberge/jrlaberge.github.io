@@ -2,6 +2,7 @@
 layout: post
 title:  "Beginner's Guide to Git"
 date:   2021-01-17 12:07:19
+tags: ['git', 'beginner']
 categories: [beginner-friendly, git]
 comments: true
 ---

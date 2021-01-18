@@ -2,6 +2,7 @@
 layout: post
 title:  "How I got started on this journey"
 date:   2020-03-05 12:07:19
+tags: ['personal']
 categories: [learning, motivation]
 comments: true
 ---
