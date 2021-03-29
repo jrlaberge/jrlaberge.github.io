@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "How I got started on this journey"
-date:   2020-03-05 12:07:19
-tags: ['personal']
-categories: [learning, motivation]
+title: How I got started on this journey
+date: 2020-03-05T12:07:19.000+00:00
+tags:
+- personal
+categories:
+- learning
+- motivation
 comments: true
----
 
+---
 One thing that I felt always held me back, was that I didn't attend a popular university for Computer Science. Instead, I took a 2 year college diploma program for Computer Systems Technology, and while I learned quite a bit. It didn't help me too much with landing the job I wanted. They did offer co-op in their 3 year program, but I didn't take advantage of that.
 
 I knew I wanted to do more, and to get there, I'd need to learn more. Sometimes you can be lucky and find a company that values individual growth and provides many opportunities to learn on the job. Other times, there isn't enough of it, so how do you get to the next milestone in your career, or learn more about areas that interest you? How do you even find what areas might interest you if you had no exposure?
@@ -44,5 +47,3 @@ The pricing is definitely steep, I paid for the monthly subscription as I was fu
 If you're looking to take the next step in your career, and find yourself needing some help. I definitely recommend <a href="https://linuxacademy.com">Linux Academy</a> They do have discounted subscriptions throughout the year which generally cuts the annual subscription down to 299 USD. Follow <a href="https://twitter.com/linuxacademyCOM">@linuxacademyCOM</a> on Twitter as they tweet about their deals when they come up.
 
 Next up, I am thinking of writing up a series on how I prepared for my certifications. So stay tuned!
-
-
