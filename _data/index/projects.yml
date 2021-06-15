@@ -1,4 +1,5 @@
-- name: NaruBot
-  descr: "My first personal project, is an attempt at automating a mobile game. As with many mobile games, the tasks are very repetitive. The idea behind this project is to get more familiar with Python and some of the available libraries/modules out there such as pyautogui."
-  image: pong.png
-  github: https://github.com/jrlaberge/narubot
+---
+- name: SQLtoSH
+  descr: Use SQL to navigate your files -- Unleash your inner DBA.
+  image: ''
+  github: https://github.com/jrlaberge/sqltosh
