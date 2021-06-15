@@ -1,15 +1,12 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+---
 - name: Freshbooks
   link: http://www.freshbooks.com/
-  date: Apr 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Apr 2019 - May 2020
   job: Systems Administrator
-
 - name: Paymentus
   link: http://www.paymentus.com/
   date: Dec 2015 - Apr 2019
   job: Operations Engineer
-
 - name: Avenlo
   link: https://www.avenlo.com/
   date: Apr 2014 - Dec 2015
